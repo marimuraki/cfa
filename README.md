@@ -1,4 +1,4 @@
-**Preliminary analysis of violation data**
+##Preliminary Analysis of (2012) Violation Data
 
 **Questions:**
 - What are the overall trends of violations over time?
@@ -19,8 +19,8 @@ Let us look at the total violations per month by category (in 2012 only)
   - Retail Food
   - Unsanitary Conditions
   - Vegetation
-  
-**Observed patterns:**
+
+**Overall Summary: {Min, Median, Mean, Max}**
 
 ```rconsole
 
@@ -61,6 +61,8 @@ $Vegetation
   2.000   2.500   6.000   6.091   7.500  16.000 
 ```
 
+**Observed Patterns over Time:**
+
 - Air Pollutants & Retail Food
   - first observed in December 2012
 - Animals & Pests
@@ -77,7 +79,7 @@ $Vegetation
   - increases into the June/July
   - drops off in August
   
-Summary:
+**Summary:**
 - Summer violations: Garbage & Refuse, Unsanitary Conditions, Vegetation
 - Fall violations: Building Conditions, Unsanitary Conditions
 - Year-round violations: Animals & Pests, Garbage & Refuse
