@@ -1,5 +1,7 @@
-*Preliminary analysis of violation data*
+**Preliminary analysis of violation data**
+
 - aggregate total of violations per month by category
+
 ..- Air Pollutants and Odors
 ..- Animals and Pests
 ..- Biohazards
