@@ -38,7 +38,7 @@ category_names <- list(
   'Air Pollutants and Odors'="AP&O",
   'Animals and Pests'="A&P",
   'Biohazards' = "Bio",
-  'Building Conditions'="BH",
+  'Building Conditions'="BC",
   'Chemical Hazards'="CH",
   'Garbage and Refuse'="G&R",
   'Retail Food'="RF",
