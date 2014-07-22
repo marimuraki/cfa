@@ -1,4 +1,4 @@
-##Preliminary Analysis of (2012) Violation Data
+##Preliminary Analysis of (2012) Violation Data**
 
 **Questions:**
 - What are the overall trends of violations over time?
@@ -88,4 +88,7 @@ $Vegetation
 
 - Collect data across years (observed patterns may be specific to 2012)
   - What patterns persist across years?
-- Run predictions on event occurrence
+- Run seasonality analysis of time-series data
+  - Decomposition of observed time-series data: trend + seasonal + random
+- Run predictions of event occurrence
+  - Short-term forecasts using e.g., exponential smoothing, ARIMA models
